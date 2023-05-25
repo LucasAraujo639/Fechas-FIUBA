@@ -1,4 +1,3 @@
-import estilos from './BodyCard.module.css'
 export const BodyCard = ({data}) => {
   return (
     <div className="container text-center ">
